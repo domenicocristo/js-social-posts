@@ -33,13 +33,7 @@ let post = [
 ]
 
 for (let i = 0; i < post.length; i++) {
-    const oggetto = post[i];
-    const nomeAutote = oggetto.nomeAutote;
-    const fotoProfilo = oggetto.fotoProfilo;
-    const data = oggetto.data;
-    const testoPost = oggetto.testoPost;
-    const immagine = oggetto.immagine;
-    const numeroLike = oggetto.numeroLike;
+    const {nomeAutote, fotoProfilo, data, testoPost, immagine, numeroLike} = post[i];
     document.getElementById("container").innerHTML +=
             `<div class="post">
             <div class="post__header">
