@@ -5,38 +5,29 @@
 
 let post = [
     {
-        "nomeAutote" : "",
-        "fotoProfilo" : "",
-        "data" : "bho",
-        "testoPost" : "",
-        "immagine" : "",
-        "numeroLike" : ""
+        "nomeAutote" : "Phil Mangione",
+        "fotoProfilo" : "https://unsplash.it/300/300?image=",
+        "data" : "4 mesi fa",
+        "testoPost" : "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
+        "immagine" : "https://unsplash.it/300/300?image=",
+        "numeroLike" : "Piace a 80 persone"
     },
 
     {
-        "nomeAutote" : "",
-        "fotoProfilo" : "",
-        "data" : "bho",
-        "testoPost" : "",
-        "immagine" : "",
-        "numeroLike" : ""
+        "nomeAutote" : "Phil Mangione",
+        "fotoProfilo" : "https://unsplash.it/300/300?image=",
+        "data" : "4 mesi fa",
+        "testoPost" : "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
+        "immagine" : "https://unsplash.it/300/300?image=",
+        "numeroLike" : "Piace a 80 persone"
     },
 
     {
-        "nomeAutote" : "",
-        "fotoProfilo" : "",
-        "data" : "bho",
-        "testoPost" : "",
-        "immagine" : "",
-        "numeroLike" : ""
-    },
-
-    {
-        "nomeAutote" : "",
-        "fotoProfilo" : "",
-        "data" : "bho",
-        "testoPost" : "",
-        "immagine" : "",
-        "numeroLike" : ""
+        "nomeAutote" : "Phil Mangione",
+        "fotoProfilo" : "https://unsplash.it/300/300?image=",
+        "data" : "4 mesi fa",
+        "testoPost" : "Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.",
+        "immagine" : "https://unsplash.it/300/300?image=",
+        "numeroLike" : "Piace a 80 persone"
     }
 ]
